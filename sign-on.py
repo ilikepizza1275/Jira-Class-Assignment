@@ -1,1 +1,1 @@
-print("Password stored securely")
+print("Password stored securely.")
