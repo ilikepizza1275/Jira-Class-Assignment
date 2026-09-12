@@ -1,1 +1,1 @@
-print("Basic sign-on page")
+print("Basic sign-on page.")
