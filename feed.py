@@ -1,1 +1,1 @@
-print("Some random post")
+print("Some random post.")
