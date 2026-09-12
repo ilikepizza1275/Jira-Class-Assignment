@@ -1,1 +1,1 @@
-print("Here's a recommended post")
+print("Here's a recommended post.")
